@@ -1,0 +1,7 @@
+{
+  "get_ready_animation": true,
+  "timer_animation": {
+    "enable": true,
+    "timer": 20
+  }
+}
